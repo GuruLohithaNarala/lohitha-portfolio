@@ -23,7 +23,7 @@ Data stored in MongoDB with a chatbot integration
 🏡 House Rent Prediction Model
 Built a machine learning model to predict house rental prices
 🔗 Connect with Me
-💼 Portfolio: [Coming Soon]
+💼 Portfolio: https://gurulohithanarala.github.io/lohitha-portfolio/
 💻 GitHub: https://github.com/GuruLohithaNarala
 📩 Email:naralagurulohitha@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/gurulohitha-narala-2b84602a2
