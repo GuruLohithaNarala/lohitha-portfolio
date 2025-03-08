@@ -41,9 +41,13 @@ Power BI, GitHub, VS Code
 
 
 🚀 Projects
+
+
 🌐 Portfolio Website (Ongoing)
 Interactive portfolio showcasing my work
 Data stored in MongoDB with a chatbot integration
+
+
 🏡 House Rent Prediction Model
 Built a machine learning model to predict house rental prices
 
@@ -59,5 +63,7 @@ Built a machine learning model to predict house rental prices
 
 
 🔗 LinkedIn: https://www.linkedin.com/in/gurulohitha-narala-2b84602a2
+
+
 Let's connect and build something amazing together! 🚀
 
